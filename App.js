@@ -36,7 +36,7 @@ return fetch("https://paynt.p.rapidapi.com/notifications/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -467,7 +467,7 @@ data_go(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -597,7 +597,7 @@ airtime_go(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -756,7 +756,7 @@ PushNotification.configure({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla,
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -773,7 +773,7 @@ PushNotification.configure({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -836,7 +836,7 @@ if(this.state.Reply !== ""){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -853,7 +853,7 @@ if(this.state.Reply !== ""){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -909,7 +909,7 @@ fetch_support(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -941,7 +941,7 @@ readmsg(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1000,7 +1000,7 @@ sendm(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1070,7 +1070,7 @@ reset_p(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1154,7 +1154,7 @@ return fetch("https://paynt.p.rapidapi.com/balance/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1225,7 +1225,7 @@ return fetch("https://paynt.p.rapidapi.com/balance/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1347,7 +1347,7 @@ return fetch("https://paynt.p.rapidapi.com/transactions/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1411,7 +1411,7 @@ transfer_go(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -1526,7 +1526,7 @@ var chk = this.validate({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3388,7 +3388,7 @@ reset_p(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3511,7 +3511,7 @@ var chk = this.validate({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3576,7 +3576,7 @@ return fetch("https://paynt.p.rapidapi.com/confirm/gen/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3647,7 +3647,7 @@ return fetch("https://paynt.p.rapidapi.com/forgot/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3738,7 +3738,7 @@ return fetch("https://paynt.p.rapidapi.com/forgot/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3806,7 +3806,7 @@ var chk = this.validate({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -3879,7 +3879,7 @@ var chk = this.validate({
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -4027,7 +4027,7 @@ return fetch("https://paynt.p.rapidapi.com/reg/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body":  JSON.stringify({
@@ -4196,7 +4196,7 @@ login(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -4212,7 +4212,7 @@ login(){
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -4231,7 +4231,7 @@ return fetch("https://paynt.p.rapidapi.com/transactions/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -4247,7 +4247,7 @@ return fetch("https://paynt.p.rapidapi.com/support/fetch/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
@@ -4261,7 +4261,7 @@ return fetch("https://paynt.p.rapidapi.com/support/fetch/",
   "method": "POST",
   "headers": {
    "x-rapidapi-host": "paynt.p.rapidapi.com",
-    "x-rapidapi-key": "3hI2U3tYlXmshyYMB1IDWKh8Y1Arp1zTUeOjsnowB6p6rAEles",
+    "x-rapidapi-key": "blablabla",
     "content-type": "application/x-www-form-urlencoded",
   },
   "body": JSON.stringify({
